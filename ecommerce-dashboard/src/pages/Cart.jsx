@@ -131,22 +131,6 @@ export default function Cart() {
     <div className="min-h-screen bg-[#f4f5f7] font-sans">
       <Navbar />
 
-      <div className="bg-white border-b border-gray-100 shadow-sm">
-        <div className="max-w-5xl mx-auto px-3 sm:px-4 lg:px-6 py-3 sm:py-4 flex items-center justify-between gap-3">
-          <div className="min-w-0">
-            <h1 className="text-base sm:text-lg font-bold text-gray-900 tracking-tight truncate">🛒 Shopping Cart</h1>
-            <p className="text-xs text-gray-400">
-              {itemCount === 0 ? "Your cart is empty" : `${itemCount} item${itemCount > 1 ? "s" : ""} in your cart`}
-            </p>
-          </div>
-          <a href="/products" className="shrink-0 flex items-center gap-1.5 text-xs sm:text-sm text-gray-500 hover:text-gray-900 font-medium transition-colors">
-            <ArrowLeftIcon />
-            <span className="hidden xs:inline sm:inline">Continue Shopping</span>
-            <span className="xs:hidden sm:hidden">Shop</span>
-          </a>
-        </div>
-      </div>
-
       <div className="max-w-5xl mx-auto px-3 sm:px-4 lg:px-6 py-4 sm:py-7">
 
         {cart.length === 0 ? (
