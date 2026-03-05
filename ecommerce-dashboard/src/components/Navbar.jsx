@@ -128,7 +128,7 @@ export default function Navbar() {
                 <ShopIcon />
               </div>
               <span className="text-base font-bold text-gray-900 tracking-tight truncate hidden xs:block sm:block">
-                Chain Network
+                Chaintech Network
               </span>
             </Link>
 

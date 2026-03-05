@@ -112,7 +112,7 @@ export default function Login() {
           <div className="w-10 h-10 sm:w-12 sm:h-12 bg-gray-900 rounded-2xl flex items-center justify-center shadow-md">
             <ShopIcon />
           </div>
-          <h1 className="text-lg sm:text-xl font-bold text-gray-900 tracking-tight">Chain Network</h1>
+          <h1 className="text-lg sm:text-xl font-bold text-gray-900 tracking-tight">Chaintech Network</h1>
           <p className="text-xs sm:text-sm text-gray-400">Sign in to your account</p>
         </div>
 
