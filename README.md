@@ -217,6 +217,12 @@ npm run dev
 
 ---
 
+## 🌐 Deployment
+
+The project can be deployed using:
+
+- Vercel : https://chaintech-network-assignment-tau.vercel.app
+
 ## 📌 Assignment Requirements Covered
 
 ✔ User Registration  
