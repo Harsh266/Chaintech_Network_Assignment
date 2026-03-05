@@ -200,7 +200,7 @@ Tailwind CSS utility classes are used for layout and styling.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Chaintech_Network_Assignment.git
+git clone https://github.com/Harsh266/Chaintech_Network_Assignment
 
 
 Navigate to the project folder:
